@@ -21,9 +21,9 @@ Features:
 * Positive affect: The level of positive emotions such as joy and contentment experienced by individuals.
 * Negative affect: The level of negative emotions such as sadness and anxiety experienced by individuals.
 
-* Radar Chart to visualise the performance of various countries across multiple dimensions related to happiness Index
+# Radar Chart to visualise the performance of various countries across multiple dimensions related to happiness Index
 
 ![image](https://github.com/user-attachments/assets/7628f882-b378-46b8-9df4-ff1f6dedfb1e)
 
-* Accuracy of the Model- K-Neighbors Regressor	90.40
+# Accuracy of the Model- K-Neighbors Regressor	90.40
 ![image](https://github.com/user-attachments/assets/961c6c3d-3ab5-464d-b72b-8469a7a88071)
